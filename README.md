@@ -2,7 +2,7 @@
 ### 🎯 Project Objective
 To design and build a cost-effective underwater pipe inspection robot capable of:
 
-Detecting leakages using sound frequency (acoustic AI)
+- Detecting leakages using sound frequency (acoustic AI)
 
 - Detecting cracks using a camera and computer vision
 
