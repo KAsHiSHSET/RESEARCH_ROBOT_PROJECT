@@ -31,4 +31,11 @@ To design and build a cost-effective underwater pipe inspection robot capable of
 ### OVERVIEW
 ![image](https://github.com/user-attachments/assets/e9be93de-e628-4747-8a86-31e0846c8c3d)
 
+### CRACKS detection in the pipeline
+![image](https://github.com/user-attachments/assets/6832e456-7b2e-4ffd-b628-1196819157df)
+
+### Comparison of model
+![image](https://github.com/user-attachments/assets/d821a233-dff4-47c4-a823-144b0f408e13)
+
+
 
