@@ -149,11 +149,3 @@ By combining **mechanical stability, AI-based vision, and optimized storage**, i
 
 
 
-
-
-
-### Comparison of model
-![image](https://github.com/user-attachments/assets/d821a233-dff4-47c4-a823-144b0f408e13)
-
-
-
