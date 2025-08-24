@@ -124,25 +124,20 @@ Current manual and CCTV inspections are **slow, error-prone, and lack automation
 
 ![image](https://github.com/user-attachments/assets/e9be93de-e628-4747-8a86-31e0846c8c3d)
 ![image](https://github.com/user-attachments/assets/6832e456-7b2e-4ffd-b628-1196819157df)
-### Video demonstration
 
 ---
-
-## ✅ Conclusion  
-The **Smart Pipeline Inspection Bot** is a practical, low-cost, and efficient system for **real-time underground crack detection**.  
-By combining **mechanical stability, AI-based vision, and optimized storage**, it significantly improves pipeline monitoring, reduces costs, conserves water, and supports sustainable urban infrastructure.  
-
----
-
 ## PPT presentation
 [PPT Presentation](https://www.canva.com/design/DAGwzbTs7v4/ano-nGuKEUFgb8FWuXt2vA/edit?utm_content=DAGwzbTs7v4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
-## 📷 Demo (Prototype & Results)  
 
-![image](https://github.com/user-attachments/assets/e9be93de-e628-4747-8a86-31e0846c8c3d)
-![image](https://github.com/user-attachments/assets/6832e456-7b2e-4ffd-b628-1196819157df)
+## ✅ Conclusion  
+The **Smart Pipeline Inspection Bot** is a practical, low-cost, and efficient system for **real-time underground crack detection**.  
+By combining **mechanical stability, AI-based vision, and optimized storage**, it significantly improves pipeline monitoring, reduces costs, conserves water, and supports sustainable urban infrastructure.  
+
+
+
 
 
 
